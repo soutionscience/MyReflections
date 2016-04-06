@@ -1,7 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+     you convert the repository to git. a .git file is added
+
 How is the staging area different from the working directory and the repository?
+staging area holds the files betweern commits. working repository is the active workspace while the repository is the database
+
 What value do you think it offers?
+  
 
 How can you use the staging area to make sure you have one commit per logical
 change?
