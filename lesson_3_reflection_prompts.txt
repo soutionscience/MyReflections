@@ -5,3 +5,7 @@ When would you want to use a remote repository rather than keeping all your work
 
      because some changes made remotely are not permanent or approved. e.g if someone else is suggesting changes
 
+
+     What is the benefit of having a copy of the last known state of the remote stored locally?
+      its allows you to comeback to the remote server and view without merging the local master
+
