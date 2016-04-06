@@ -14,5 +14,5 @@ What do you think are the pros and cons of manually choosing when to create a co
     its makes me alot more confidaent knowing i can reverse any changes i amake
     
     Now that you have your workspace set up, what do you want to try using Git for?
-     version control and ssee whether it helps me graduate from bieng a noob
+     version control and see whether it helps me graduate from bieng a noob
      
