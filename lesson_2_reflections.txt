@@ -13,11 +13,12 @@ change?
 
 you can use the staging area to hold one or more files and commit them together to form one logical commit
 
-What are some situations when branches would be helpful in keeping your history
+What are some situations  in keeping your history
 organized? How would branches help?
   they would help if you want to test new features without affecting the main features
 
 How do the diagrams help you visualize the branch structure?
+ Diagrams help in tracking my location
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
